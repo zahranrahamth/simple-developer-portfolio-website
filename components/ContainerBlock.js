@@ -10,7 +10,7 @@ export default function ContainerBlock({ children, ...customMeta }) {
   const meta = {
     title: "Manu Arora - Developer, Writer, Creator and YouTuber",
     description: `I've been developing websites for 2 years straight. Get in touch with me to know more.`,
-    image: "https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif",
+    image: "IMG_0689-removebg-preview.png",
     type: "website",
     ...customMeta,
   };

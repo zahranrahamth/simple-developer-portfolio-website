@@ -2,7 +2,7 @@ const userData = {
   githubUsername: "manuarora700",
   name: "Mohamed Zahran",
   designation: "Web Developer",
-  avatarUrl: "/avatar.png",
+  avatarUrl: "",
   email: "zahranrahmath97@gmail.com",
   phone: "+94 750149833",
   address: "St Micheal's Rd, Colombo 3, SriLanka.",

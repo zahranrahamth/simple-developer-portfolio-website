@@ -45,7 +45,7 @@ const userData = {
     {
       title: "FlyHyer - Surge Intership 2022 (Practise Website)",
       link: "https://flyhyer.com",
-      imgUrl: "/flyhyer.png",
+      imgUrl: "",
     },
   ],
   about: {
